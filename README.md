@@ -11,6 +11,7 @@ Front end system design resources are rare. Here's a curated list of awesome res
     - [RADIO Framework for Front End System Design](https://www.greatfrontend.com/system-design/framework)
   - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/front-end-system-design/)
   - [Frontend system design interviews - the definitive guide](https://frontendmastery.com/posts/frontend-system-design-interview-guide/)
+  - [CheatsheetKit Front End System Design Packs](https://cheatsheetkit.store/packs/system-design-core/) - Interview-prep PDF packs covering front-end system design, HLD, LLD and case studies. Paid, with a free frontend sample pack.
 
 ## Applications
 
